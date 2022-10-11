@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Exoic (HauSexy)
-- 👀 I’m interested in coding or something like that
-- 🌱 I’m currently learning code :D
+- GitHub la con cac gi?
 
 
 <!---
